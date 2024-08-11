@@ -8,17 +8,20 @@
 
 **Installation:**
 
-1. **Python Setup:**
-    * If you don't have 'Python' installed in your system, download the latest version from https://www.python.org/downloads/.
-    * While installing ensure you check the box that says "Add Python to PATH".
+1. **Check for Python:**
+   * If you already have Python installed on your system, skip to step 3.
 
-2. **BeautifulSoup4 Installation:**
-    * Open Command Prompt or PowerShell.
-    * Install BeautifulSoup using pip:
+2. **Install Python:**
+   * If you don't have 'Python' installed in your system, download the latest version from https://www.python.org/downloads/.
+   * While installing, ensure you check the box that says "Add Python to PATH".
 
-        ```
-        pip install beautifulsoup4
-        ```
+3. **Install BeautifulSoup4:**
+   * Open Command Prompt or PowerShell.
+   * Install BeautifulSoup using pip:
+
+     ```
+     pip install beautifulsoup4
+     ```
 
 **Running the Script:**
 
