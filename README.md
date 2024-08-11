@@ -1,5 +1,5 @@
 # Windows-Battery-Health
-By running the .bat file, we get the "Battery Health" of windows laptop :3 
+By running the .bat file, we get the "Battery Health" of windows laptops :3 
 
 Caution:
 1. Make sure the .py file is in the same directory as the .bat file. And also there can't be another batteryhealth.py file in the same directory.
